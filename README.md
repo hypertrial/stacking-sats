@@ -7,7 +7,7 @@ Master repo for the [Hypertrial.ai](https://www.hypertrial.ai/) Stacking Sats op
  
 ### Contribute
 - [Data Engineering + Science](https://github.com/hypertrial/stacking_sats_pipeline)
-- [Frontend/UX](https://github.com/hypertrial/stacking_sats_product)
+- [Frontend + UX](https://github.com/hypertrial/stacking_sats_product)
 
 ### Tournaments
 - [Strategy (MSTR) x Trilemma Foundation Tournament](https://www.hypertrial.ai/bitcoin-arena/challenge/bitcoin)
