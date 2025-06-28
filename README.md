@@ -1,2 +1,2 @@
-# stacking_sats
-Stacking Sats - A Hypertrial Open-Source Initiative
+# Stacking Sats Master Repo
+
