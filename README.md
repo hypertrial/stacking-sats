@@ -4,6 +4,10 @@ Master repo for the [Hypertrial.ai](https://www.hypertrial.ai/) Stacking Sats op
 ## For Talent
 - [Hypertrial Academy](https://www.hypertrial.ai/academy)
   - 8-week, 1-on-1 mentorship program designed to build and execute your personalized tactical roadmap to a high-impact data role
+ 
+### Contribute
+- [Data Engineering + Science](https://github.com/hypertrial/stacking_sats_pipeline)
+- [Frontend/UX](https://github.com/hypertrial/stacking_sats_product)
 
 ### Tournaments
 - [Strategy (MSTR) x Trilemma Foundation Tournament](https://www.hypertrial.ai/bitcoin-arena/challenge/bitcoin)
