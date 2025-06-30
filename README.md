@@ -55,12 +55,20 @@ This is why we have open-sourced the challenge — to invite technical talent ar
 
 ### Tournaments
 
-<a href="https://www.hypertrial.ai/bitcoin-arena/challenge/bitcoin">
-  <img src="./assets/strategy_logo.png" alt="Strategy Tournament" width="300"/>
-</a>
-
-- Compete in <a href="https://www.hypertrial.ai/bitcoin-arena/challenge/bitcoin">Bitcoin Arena</a>  
-→ <a href="https://www.hypertrial.ai/resources/bitcoin-arena">Tournament Resources</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.hypertrial.ai/bitcoin-arena/challenge/bitcoin">
+        <img src="./assets/strategy.png" alt="Strategy Tournament" width="200"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.trilemma.foundation/">
+        <img src="./assets/trilemma_foundation.png" alt="Trilemma Foundation" width="180"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 - Compete in [Bitcoin Arena](https://www.hypertrial.ai/bitcoin-arena/challenge/bitcoin)  
   → [Tournament Resources](https://www.hypertrial.ai/resources/bitcoin-arena)
