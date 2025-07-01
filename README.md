@@ -41,8 +41,18 @@ This is why we have open-sourced the challenge — to invite technical talent ar
 
 ### Capstone Projects
 
-- [UBC MDS · Summer 2025](https://www.hypertrial.ai/university-projects/ubc-mds)  
+[Trilemma Foundation](https://www.trilemma.foundation/) sponsors capstone, practicum, and internship projects across leading university programs. These projects give students the opportunity to work on real-world challenges that bridge the gap between academia and industry.
+
+Students contribute to open-source projects, receive mentorship, and build a public portfolio of work.
+
+**Explore our current university projects:**
+
+- [UBC MDS · Summer 2025](https://www.hypertrial.ai/university-projects/ubc-mds)
 - [Georgia Tech · Summer 2025](https://www.hypertrial.ai/university-projects/georgia-tech)
+
+**View all partners or inquire about collaborating:**
+
+- [University Partners](https://www.hypertrial.ai/partners)
 
 ---
 
