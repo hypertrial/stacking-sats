@@ -58,7 +58,7 @@ This is why we have open-sourced the challenge — to invite technical talent ar
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center">
-      <a href="https://www.hypertrial.ai/bitcoin-arena/challenge/bitcoin">
+      <a href="https://www.strategy.com/">
         <img src="./assets/strategy.png" alt="Strategy Tournament" width="200"/>
       </a>
     </td>
