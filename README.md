@@ -64,7 +64,7 @@ This is why we have open-sourced the challenge — to invite technical talent ar
     </td>
     <td align="center">
       <a href="https://www.trilemma.foundation/">
-        <img src="./assets/trilemma_foundation.png" alt="Trilemma Foundation" width="180"/>
+        <img src="./assets/trilemma_foundation_whte_background.png" alt="Trilemma Foundation" width="180"/>
       </a>
     </td>
   </tr>
