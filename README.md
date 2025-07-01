@@ -98,8 +98,13 @@ Join the open-source effort behind Stacking Sats.
 
 ### Hypertrial Academy
 
-- Personalized mentorship to help you land top-tier data roles  
-  → [Learn More](https://www.hypertrial.ai/academy)
+A personalized 8-week mentorship program to help you break into high-impact data roles.
+
+> Build your portfolio by contributing to **Stacking Sats**
+> Get 1-on-1 career guidance
+> Sharpen your skills with a tailored technical curriculum
+
+→ [Learn More](https://www.hypertrial.ai/academy)
 
 ---
 
