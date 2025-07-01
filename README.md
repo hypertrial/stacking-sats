@@ -58,8 +58,13 @@ Students contribute to open-source projects, receive mentorship, and build a pub
 
 ### Contribute
 
-- [📦 Data Engineering + Science](https://github.com/hypertrial/stacking_sats_pipeline)  
+Join the open-source effort behind Stacking Sats.
+
+- [📦 Data Engineering + Science](https://github.com/hypertrial/stacking_sats_pipeline)
+  Help expand our data lake by integrating open-source datasets. This pipeline powers models used by thousands of students across tournaments and university projects. If you have relevant data, submit a PR.
+
 - [🖼 Frontend + UX](https://github.com/hypertrial/stacking_sats_product)
+  Improve the frontend experience of our public-facing GitHub page and visualization tools.
 
 ---
 
