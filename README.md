@@ -48,7 +48,7 @@ Students contribute to open-source projects, receive mentorship, and build a pub
 **Explore our current university projects:**
 
 - [UBC MDS · Summer 2025](https://www.hypertrial.ai/university-projects/ubc-mds)
-- [Georgia Tech · Summer 2025](https://www.hypertrial.ai/university-projects/georgia-tech)
+- [Georgia Tech MSA · Summer 2025](https://github.com/TrilemmaFoundation/GT-MSA-S25)
 
 **View all partners or inquire about collaborating:**
 
