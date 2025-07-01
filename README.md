@@ -86,7 +86,7 @@ Join the open-source effort behind Stacking Sats.
 </table>
 
 > **Stacking Sats: Strategy x Trilemma Foundation Tournament**  
-> A global, free, and remote tournament where talent compete to push the frontier of Bitcoin insight.
+> A global, free, and remote tournament where talent competes to push the frontier of Bitcoin insight.
 > Participants compete by building data-driven models that beat naive DCA across a fixed time and budget.  
 >  
 > Starts June 28, 2025 · Open to anyone with an internet connection · Backed by Strategy and Trilemma Foundation.
