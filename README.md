@@ -93,8 +93,7 @@ Take part in equal-opportunity, meritocratic competitions. In other words: Proof
 >  
 > Starts June 28, 2025 · Open to anyone with an internet connection · Backed by Strategy and Trilemma Foundation.
 
-- Compete in [Bitcoin Arena](https://www.hypertrial.ai/bitcoin-arena/challenge/bitcoin)  
-  → [Tournament Resources](https://www.hypertrial.ai/resources/bitcoin-arena)
+**Get Started:** [Tournament Repo](https://github.com/TrilemmaFoundation/stacking-sats-tournament-mstr-2025) · [Tournament Page](https://www.hypertrial.ai/resources/bitcoin-arena)
   
 ---
 
