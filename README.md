@@ -90,7 +90,7 @@ This is your chance to:
 
 ---
 
-### Tournaments
+## Tournaments
 
 Tournaments are **equal-opportunity competitions** where talent proves itself — and gets directly rewarded.
 
