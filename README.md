@@ -78,7 +78,7 @@ Designing optimal Bitcoin accumulation strategies should be a rigorous generaliz
 
 ## Open Capstone Projects
 
-Capstones are often called the **most valuable part of a STEM degree**. Students pay thousands in tuition just to access them. We give you the same experience, completely **free, remote, and open to everyone**.
+Capstones are often called the **most valuable part of a STEM degree**. Students pay thousands in tuition just to access them. Trilemma Foundation is giving you the same experience, completely **free, remote, and open to everyone**.
 
 This is your chance to:
 
