@@ -48,8 +48,8 @@ As individuals, institutions, and even nations race to accumulate a mathematical
 
 Designing optimal Bitcoin accumulation strategies should be a rigorous generalization of dollar-cost averaging. Without rigor, it's easy to produce degenerate strategies that lack statistical significance. So, we have defined a framework that constrains the space of valid solutions to reduce overfitting and eliminate spurious models. However, the resulting search space remains mathematically vast and difficult to navigate. This is why we have open-sourced the challenge — to invite technical talent around the world to contribute to a real-world Bitcoin quant problem.  
 
-📄 [Read the simplified problem statement here](#)  
-⚙️ [Dive into our mechanism design (how & why we designed the problem itself) here](#) 
+📄 [Read the problem statement here](https://github.com/hypertrial/stacking-sats/blob/main/Problem%20Statement.ipynb)  
+⚙️ [Dive into our mechanism design (how & why we designed the problem itself) here](https://github.com/hypertrial/stacking-sats/blob/main/Problem%20Statement%20Deep%20Dive.ipynb) 
 
 ---
 
