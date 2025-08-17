@@ -7,15 +7,15 @@ Welcome to the master repository for the [Hypertrial.ai](https://www.hypertrial.
 <table width="100%" style="background-color:#E6F7FF; text-align:center; table-layout:fixed;">
   <tr>
     <td>
-      <div style="font-size:16px; font-weight:800; margin-bottom:6px;">
-        Open Source ≻ Proprietary Alpha
+      <div style="font-size:24px; font-weight:800; margin-bottom:6px;">
+        Open Source
       </div>
       <div style="font-size:12px; font-weight:800; font-style:italic;">
         If it’s real, you don’t need to hide it.
       </div>
     </td>
     <td>
-      <div style="font-size:16px; font-weight:800; margin-bottom:6px;">
+      <div style="font-size:24px; font-weight:800; margin-bottom:6px;">
         Bitcoin Is the Hurdle Rate
       </div>
       <div style="font-size:12px; font-weight:800; font-style:italic;">
@@ -23,8 +23,8 @@ Welcome to the master repository for the [Hypertrial.ai](https://www.hypertrial.
       </div>
     </td>
     <td>
-      <div style="font-size:16px; font-weight:800; margin-bottom:6px;">
-        Proof of Performance ≻ Everything Else
+      <div style="font-size:24px; font-weight:800; margin-bottom:6px;">
+        Proof of Performance
       </div>
       <div style="font-size:12px; font-weight:800; font-style:italic;">
         Let the performance speak for itself.
